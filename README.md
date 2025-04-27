@@ -1,6 +1,6 @@
 <h1 align="start">Hi 👋, I'm Rahul Lakhera</h1>
 <h3 align="start">A passionate Java developer from India</h3>
-<img src="https://images.pexels.com/photos/8832723/pexels-photo-8832723.jpeg?auto=compress&cs=tinysrgb&w=600" alt="">
+<img src="https://images.pexels.com/photos/9783812/pexels-photo-9783812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width = "500px" align="right" alt="">
 
 - 🌱 I’m currently learning **Java Spring Boot Development**
 
