@@ -4,16 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Developer;Building+Modern+Web+Apps;Always+Learning+New+Tech" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-* 💻 Frontend Developer specializing in React & TypeScript
-* ⚛️ Building responsive, scalable & user-friendly web applications
-* 🚀 Developed real-world projects like E-commerce & Dashboards
-* 📊 Focused on UI/UX & performance optimization
-* 🌱 Currently learning Java Full Stack Development
-* 🎯 Goal: Full Stack Developer
+* 💻 Frontend Developer specializing in React & TypeScript  
+* ⚛️ Building responsive, scalable & user-friendly web applications  
+* 🚀 Developed real-world projects like E-commerce platforms & dashboards  
+* 📊 Focused on UI/UX and performance optimization  
+* 🌱 Currently learning Java Full Stack Development (Spring Boot & APIs)  
+* 💬 Ask me about React, JavaScript, Tailwind CSS  
+* 🎯 Goal: To become a Full Stack Developer building scalable applications  
+* ⚡ Fun fact: I turn ideas into real-world projects 🚀  
 
 ---
 
