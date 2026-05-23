@@ -1,145 +1,150 @@
-<h1 align="center">Hi 👋, I'm Rahul Lakhera</h1>
 
-<h3 align="center">Frontend Developer | React.js Developer | Aspiring Java Full Stack Developer</h3>
+<h1 align="center">Hey 👋, I'm Rahul Lakhera</h1>
+
+<h3 align="center">
+Frontend Developer • React.js Developer • Java Full Stack Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=32CD32&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Building+Modern+Web+Applications;Learning+Java+Full+Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;Java+Full+Stack+Learner;Building+Modern+Web+Applications;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahullakh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🔭 Currently building responsive and scalable web applications using React  
-  👉 [Finance Dashboard System](https://finance-dashboard-react-app.vercel.app/)
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🌱 Currently learning  
-  **Java Full Stack Development | Spring Boot | REST APIs | Backend Fundamentals**
+- 🔭 Currently working on  
+  **Finance Dashboard System**
+
+- 🌱 Learning  
+  **Java Full Stack Development**
+  
+- 💡 Interested in  
+  **React.js, TypeScript, Spring Boot & Scalable Applications**
 
 - 👨‍💻 Portfolio Website  
-  👉 [My Portfolio](https://my-portfolio-web-ruby-xi.vercel.app/)
+  🌐 **https://my-portfolio-web-ruby-xi.vercel.app/**
 
-- 💬 Ask me about  
-  **React, JavaScript, TypeScript, Tailwind CSS, and Frontend Development**
+- 📫 Email Me  
+  ✉️ **rahullakhera982@gmail.com**
 
-- 📫 Reach me at  
-  **rahullakhera982@gmail.com**
-
-- 🔗 LinkedIn  
-  👉 [Rahul Lakhera](https://www.linkedin.com/in/rahul-lakhera-309a20364/)
+- ⚡ Fun Fact  
+  **I love building modern UI & interactive web apps**
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rahul-lakhera-309a20364/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/rahul_lakhera84/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
-</p>
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="45" height="45"/>
-</a>
-
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-</a>
-
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="45" height="45"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Stats
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahullakh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<a href="https://www.linkedin.com/in/rahul-lakhera-309a20364/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahullakh&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<a href="https://www.instagram.com/rahul_lakhera84/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullakh" alt="GitHub Streak" />
+<a href="mailto:rahullakhera982@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
 </p>
 
 ---
 
-## ✨ Featured Projects
+# 🛠️ Tech Stack
 
-### 💰 Finance Dashboard System
-A modern finance dashboard built using React.js with charts, analytics, and responsive UI.
+<div align="center">
 
-🔗 Live Demo:  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,java,spring,mysql,firebase,git,github,docker,figma,vscode,postman" />
+
+</div>
+
+---
+
+# ✨ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 💰 Finance Dashboard System
+
+📊 Modern finance dashboard with analytics & charts.
+
+### 🔥 Features
+- Responsive UI
+- Interactive Charts
+- Modern Dashboard Design
+- React.js Based
+
+🔗 **Live Demo**  
 https://finance-dashboard-react-app.vercel.app/
 
-### 🎓 Education Spark
-A responsive educational website developed using WordPress.
+</td>
 
-🔗 Live Demo:  
+<td width="50%">
+
+## 🎓 Education Spark
+
+🌐 Educational website built using WordPress.
+
+### 🔥 Features
+- Fully Responsive
+- Modern Layout
+- SEO Friendly
+- WordPress CMS
+
+🔗 **Live Demo**  
 https://education-spark.vercel.app/
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Fun Fact
+# 📊 GitHub Analytics
 
-💡 I enjoy building modern UI projects and continuously improving my backend development skills with Java & Spring Boot.
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahullakh&show_icons=true&theme=tokyonight" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahullakh&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahullakh&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rahullakh&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahullakh&theme=tokyo-night" />
+</p>
+
+---
+
+# 💻 Current Focus
+
+```javascript
+const rahul = {
+  role: "Frontend Developer",
+  learning: ["Java", "Spring Boot", "Backend Development"],
+  technologies: ["React", "TypeScript", "Tailwind CSS"],
+  passion: "Building Modern Web Applications"
+};
